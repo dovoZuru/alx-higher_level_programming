@@ -1,1 +1,1 @@
-More prectise on coding using python
+More practise on coding using python
