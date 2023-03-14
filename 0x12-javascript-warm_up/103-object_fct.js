@@ -1,5 +1,5 @@
 #!/usr/bin/node
-let myObject = {
+let myobject = {
   type: 'object',
   value: 12
 };
